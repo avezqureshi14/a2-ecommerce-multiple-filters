@@ -1,7 +1,9 @@
 # eCommerce-Like Page with Filters and Sort Options
+
 [🔴 LIVE LINK](https://avez-a2-advance-filters.netlify.app/)
 
-![k2](https://github.com/avezqureshi14/a2-ecommerce-multiple-filters/assets/95353195/35ad1eec-6721-4a20-9580-14a8ad9087c0)
+![k3](https://github.com/avezqureshi14/a2-ecommerce-multiple-filters/assets/95353195/15717972-caf9-4b7e-ac27-e20e7bd9bcba)
+
 
 
 ## Contributor
